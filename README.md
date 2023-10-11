@@ -95,3 +95,18 @@ Code your design in HTML/CSS/JS using the [Bootstrap](https://getbootstrap.com) 
 - [Mozilla Developer Guides](https://developer.mozilla.org/en-US/docs/Web/Guide)
 
 
+
+
+
+<details>
+<summary>Past examples</summary>
+  
+- 2023
+    - [Yumna](https://yuahmed.github.io/dig245-on-the-grid/) ([Figma](https://www.figma.com/file/V1CBLp0pZKuzSzGPA8lqq9/On-The-Grid?type=design&node-id=0-1&mode=design))
+    - [Riana](https://rianadoctor.github.io/dig245-on-the-grid/)
+    - [Dave](https://davidmhilton.github.io/dig245-on-the-grid/) ([Figma](https://www.figma.com/file/554tUw2t22TTVia7XsvjiP/On-the-grid?type=design&node-id=0-1&mode=design))
+    - [Will](https://wcox2.github.io/dig245-on-the-grid/) 
+    - [Patrick](https://patrick-leary.github.io/dig245-on-the-grid/)
+    - [Meredith](https://merhaines.github.io/)
+
+</details>
