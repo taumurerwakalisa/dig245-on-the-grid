@@ -46,21 +46,23 @@ See Moodle.
 
 
 
-## Setup
-
-[Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) this repository and [clone](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository) it to your machine.
 
 
-## Context
+## Concept
 
-- 📚 "On the Grid" (chapter 4) in Critical Web Design
-    - Chapter example(s): [The New York Felines](https://omundy.github.io/critical-web-design-book/04-on-the-grid/examples/the-new-york-felines/)
-- Articles:
-    - 📚 Diogo Terror [Lessons From Swiss Style Graphic Design](http://www.smashingmagazine.com/2009/07/17/lessons-from-swiss-style-graphic-design/) (2009) 
-    - 📚 Andrew Maher [How You Make A Grid](https://kupdf.net/download/grid-design-for-graphic-designers-by-andrew-maher_58f4a3f0dc0d60a14ada97de_pdf) (2-9) (2011)
-    - 📚 Frank Chimero [Craft and Beauty](https://shapeofdesignbook.com/chapters/02-craft-and-beauty/) (28-34) in [The Shape of Design](https://shapeofdesignbook.com/) (2012)
-    - 📚 Aigars Silkalns [20 Excellent Websites With Responsive Web Design](https://colorlib.com/wp/responsive-web-design/) (2023)
-    - [Graphic Design Theory #12 - Grids](https://www.youtube.com/watch?v=Q9efIv7ix1Y) (10:02)
+- 📚 "On the Grid" (chapter 4) in *Critical Web Design*
+- [Chapter examples](https://omundy.github.io/critical-web-design-book/#chapter-4-on-the-grid) like: 
+[The New York Felines](https://omundy.github.io/critical-web-design-book/04-on-the-grid/examples/the-new-york-felines/), 
+[The New York Thymes](https://omundy.github.io/critical-web-design-book/04-on-the-grid/examples/the-new-york-thymes/)
+
+
+#### Articles
+
+- 📚 Diogo Terror [Lessons From Swiss Style Graphic Design](http://www.smashingmagazine.com/2009/07/17/lessons-from-swiss-style-graphic-design/) (2009) 
+- 📚 Andrew Maher [How You Make A Grid](https://kupdf.net/download/grid-design-for-graphic-designers-by-andrew-maher_58f4a3f0dc0d60a14ada97de_pdf) (2-9) (2011)
+- 📚 Frank Chimero [Craft and Beauty](https://shapeofdesignbook.com/chapters/02-craft-and-beauty/) (28-34) in [The Shape of Design](https://shapeofdesignbook.com/) (2012)
+- 📚 Aigars Silkalns [20 Excellent Websites With Responsive Web Design](https://colorlib.com/wp/responsive-web-design/) (2023)
+- [Graphic Design Theory #12 Grids](https://www.youtube.com/watch?v=Q9efIv7ix1Y) (10:02)
 
 
 
@@ -77,7 +79,9 @@ Follow the prompt in Chapter 4 of Critical Web Design to create a responsive gri
 
 ## Code
 
-Code your design in HTML/CSS/JS using the [Bootstrap](https://getbootstrap.com) framework. Test your breakpoints often by adjusting the width of the browser window.
+1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) this repository and [clone](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository) it to your machine.
+1. Code your design in HTML/CSS/JS using the [Bootstrap](https://getbootstrap.com) framework. 
+1. Test your breakpoints often by adjusting the width of the browser window.
 
 
 
