@@ -51,12 +51,20 @@ See Moodle.
 ## Concept
 
 - 📚 "On the Grid" (chapter 4) in *Critical Web Design*
-- [Chapter examples](https://omundy.github.io/critical-web-design-book/#chapter-4-on-the-grid) like: 
+
+
+
+### Inspiration
+
+- Chapter [examples](https://omundy.github.io/critical-web-design-book/#chapter-4-on-the-grid): 
 [The New York Felines](https://omundy.github.io/critical-web-design-book/04-on-the-grid/examples/the-new-york-felines/), 
 [The New York Thymes](https://omundy.github.io/critical-web-design-book/04-on-the-grid/examples/the-new-york-thymes/)
 
+See the [Critical Web Design Index](https://omundy.github.io/critical-web-design-index/) for examples tagged with [#journalism](https://omundy.github.io/critical-web-design-index#journalism) or [#grid](https://omundy.github.io/critical-web-design-index#grid), including...
 
-#### Articles
+
+
+### Articles
 
 - 📚 Diogo Terror [Lessons From Swiss Style Graphic Design](http://www.smashingmagazine.com/2009/07/17/lessons-from-swiss-style-graphic-design/) (2009) 
 - 📚 Andrew Maher [How You Make A Grid](https://kupdf.net/download/grid-design-for-graphic-designers-by-andrew-maher_58f4a3f0dc0d60a14ada97de_pdf) (2-9) (2011)
