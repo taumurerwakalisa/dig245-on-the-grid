@@ -56,11 +56,11 @@ See Moodle.
 
 ### Inspiration
 
-- Chapter [examples](https://omundy.github.io/critical-web-design-book/#chapter-4-on-the-grid): 
-[The New York Felines](https://omundy.github.io/critical-web-design-book/04-on-the-grid/examples/the-new-york-felines/), 
-[The New York Thymes](https://omundy.github.io/critical-web-design-book/04-on-the-grid/examples/the-new-york-thymes/)
+- Chapter [examples](https://criticalwebdesign.github.io/book/#chapter-4-on-the-grid): 
+[The New York Felines](https://criticalwebdesign.github.io/book/04-on-the-grid/examples/the-new-york-felines/), 
+[The New York Thymes](https://criticalwebdesign.github.io/book/04-on-the-grid/examples/the-new-york-thymes/)
 
-See the [Critical Web Design Index](https://omundy.github.io/critical-web-design-index/) for examples tagged with [#journalism](https://omundy.github.io/critical-web-design-index#journalism) or [#grid](https://omundy.github.io/critical-web-design-index#grid), including...
+See the [Critical Web Design Index](https://criticalwebdesign.github.io/index) for examples tagged with [#journalism](https://criticalwebdesign.github.io/index#journalism) or [#grid](https://criticalwebdesign.github.io/index#grid), including...
 
 
 
